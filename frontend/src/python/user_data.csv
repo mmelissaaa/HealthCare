@@ -1,0 +1,6 @@
+user_id,age,gender,weight_kg,height_cm,diet_preference,health_goal,activity_level,medical_history,bmi,daily_caloric_needs,combined_features
+1,25,F,60,165,low carb,weight loss,moderate,none,22.03856749311295,2085.1375000000003,low carb weight loss none
+2,30,M,85,180,vegetarian,muscle gain,high,diabetes,26.234567901234566,3477.0,vegetarian muscle gain diabetes
+3,45,F,70,160,gluten-free,weight maintenance,low,none,27.343749999999996,1576.8,gluten-free weight maintenance none
+4,50,M,90,175,low fat,weight loss,moderate,hypertension,29.387755102040817,2710.5625,low fat weight loss hypertension
+5,35,F,65,170,keto,muscle gain,high,none,22.49134948096886,2615.35,keto muscle gain none
